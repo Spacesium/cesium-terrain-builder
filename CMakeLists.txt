@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.6)
-project("Cesium Terrain Builder")
+project("Spacesium ION Terrain-Builder")
 
 # The version number
 set(CTB_VERSION_MAJOR 0)
